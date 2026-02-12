@@ -12,17 +12,17 @@ This repository contains **documentation**, **tutorials**, and **scripts** for p
 - **Assembly prep and data organization**
 - Several species/breeds/crosses prepped for curation:
 
-	**Antilocapridae - Pronghorn**
-	**Bovidae	 - Bison x Pied**
-	**Bovidae 	 - Bison x Simmental**
-	**Bovidae 	 - Chamois**
-	**Cervidae	 - White Tailed Deer**
-	**Cervidae	 - Red Deer x Wapiti**
-	**Cervidae	 - Wapiti x Red Deer**
-	**Giraffidae	 - Giraffe**
-	**Moschidae	 - Siberian Musk Deer**
-	**Tragulidae	 - Chevrotain**
-	**Outgroup	 - Alpaca**
+	- **Antilocapridae 	- Pronghorn**
+	- **Bovidae	 	- Bison x Pied**
+	- **Bovidae 	 	- Bison x Simmental**
+	- **Bovidae 	 	- Chamois**
+	- **Cervidae	 	- White Tailed Deer**
+	- **Cervidae	 	- Red Deer x Wapiti**
+	- **Cervidae	 	- Wapiti x Red Deer**
+	- **Giraffidae	 	- Giraffe**
+	- **Moschidae	 	- Siberian Musk Deer**
+	- **Tragulidae	 	- Chevrotain**
+	- **Outgroup	 	- Alpaca**
 	
 
 
@@ -31,7 +31,7 @@ This repository contains **documentation**, **tutorials**, and **scripts** for p
 
 
 ### **Contents**
-- `helper-scripts
+- `helper-scripts`
 	- read quality control
 	- read statistics
 	- assembly statistics
@@ -41,5 +41,5 @@ This repository contains **documentation**, **tutorials**, and **scripts** for p
 	- how to update necessary files when scaffolding joins are not correctly listed
 
 - `Verkko-Fillet`
-	- modified to run on **[SCINet's HPC Ceres](https://scinet.usda.gov/)
+	- modified to run on **[SCINet's HPC Ceres](https://scinet.usda.gov/)**
 	- additional scripts extend file formatting for easier curation 
